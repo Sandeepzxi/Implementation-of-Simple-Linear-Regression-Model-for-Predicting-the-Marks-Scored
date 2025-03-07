@@ -55,12 +55,6 @@ regressor=LinearRegression()
 regressor.fit(x_train,y_train)
 y_pred=regressor.predict(x_test)
 ```
-# Tail Values:
-![image](https://github.com/user-attachments/assets/5339a5a2-e4a4-4ed0-a1a8-7b033621513f)
-
-# X Values:
-![image](https://github.com/user-attachments/assets/40a2e414-6de5-4c55-8404-e87d799f0197)
-
 y_pred
 # Output:
 ![image](https://github.com/user-attachments/assets/c6c587bf-7bcc-430f-827e-7ead6e103731)
